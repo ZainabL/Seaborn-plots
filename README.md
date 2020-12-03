@@ -1,6 +1,3 @@
-# Seaborn-plots
-Seaborn plots
-
 # What is Seaborn?
 Python Data Visualization Library - based on MatPlotLib (see previous tutorials)
 Used for plotting statistical graphs, identifying trends, relationships & outliers
@@ -8,7 +5,7 @@ In my opinion, Seaborn is easier & faster to use (less code) Vs MatPlotLib
 
 # Project Overview
 
-# Trend Plots:
+# #Trend Plots:
 Line Plots
 
 # Summary Plots:

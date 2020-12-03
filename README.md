@@ -4,9 +4,15 @@ Used for plotting statistical graphs, identifying trends, relationships & outlie
 In my opinion, Seaborn is easier & faster to use (less code) Vs MatPlotLib
 
 # Project Overview
+Alteration of the colour of the graph
+Alteration orientation
+Addition hues
+Addition of markers or swarm plots
+Calculations of the sum, mean, median, max, min values 
 
-# #Trend Plots:
+# Trend Plots:
 Line Plots
+
 
 # Summary Plots:
 Bar Plots
@@ -26,3 +32,4 @@ Join Plots
 
 # Correlation / Relationships:
 Heat Maps
+
